@@ -1,0 +1,14 @@
+* {
+    outline: none !important;
+}
+.btn-primary { 
+    background: pink !important;
+    border-color: pink !important;
+}
+.btn-primary:focus {
+    box-shadow: none !important;
+}
+.page-item.active .page-link {
+    background: pink !important;
+    border-color: pink !important;
+}
